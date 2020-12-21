@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>update-arrow.ico</file>
+        <file>lock.ico</file>
+    </qresource>
+</RCC>
